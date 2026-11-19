@@ -1,0 +1,11 @@
+{
+  "$schema": "https://opencode.ai/v2/cli.json",
+  "animations": false,
+  "session": {
+    "scrollbar": true,
+    "thinking": "hide",
+    "markdown": "source",
+    "verbosity": "low",
+    "sidebar": "hide"
+  }
+}

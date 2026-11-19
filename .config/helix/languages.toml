@@ -1,0 +1,16 @@
+[[language]]
+name = "nix"
+auto-format = true
+
+[[language]]
+name = "typst"
+auto-format = true
+
+[[language]]
+name = "toml"
+roots = ["."]
+auto-format = true
+
+[language-server.tinymist]
+command = "tinymist"
+config = { exportPdf = "onSave" }
